@@ -1,8 +1,6 @@
-# bayareaanchoi
+# Ăn-chơi ở Bay Area
 Các địa điểm ăn,chơi, du lịch và hơn thế nữa Bay Area. 
 
-## [À wiki đây rồi!](https://github.com/bayareaanchoi/bayareaanchoi/wiki)
+## [A đây rồi - Wiki!](https://github.com/bayareaanchoi/bayareaanchoi/wiki)
 
-
-
-Chỗ này bỏ trắng.
+Bấm vào link ở trên để tới Wiki.
